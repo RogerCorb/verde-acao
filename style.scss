@@ -112,6 +112,7 @@ article {
 }
 
 .form-container {
+  margin-top: 70px;
   width: auto;
   height: 803px;
   background-color: #e8f5e9;
@@ -142,6 +143,7 @@ article {
       border-radius: 25px;
     }
     button {
+      margin-top: 20px;
       width: 95%;
       height: 61px;
       background-color: $button-color;
