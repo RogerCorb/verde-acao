@@ -118,7 +118,7 @@ article {
   text-align: center;
   form {
     display: inline-block;
-    width: 690px;
+    width: 43rem;
     margin-top: 50px;
     h2 {
       font-size: 32;
@@ -133,7 +133,7 @@ article {
       padding: 15px;
     }
     input {
-      width: 95%;
+      width: auto;
       padding-left: 35px;
       height: 61px;
       background-color: #ffffff;
@@ -142,7 +142,7 @@ article {
       border-radius: 25px;
     }
     button {
-      width: 95%;
+      width: auto;
       height: 61px;
       background-color: $button-color;
       color: white;
